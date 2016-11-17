@@ -1,0 +1,11 @@
+applications:
+  - name: deployadactyl
+    env:
+      # Uncomment and fill in CF_USERNAME and CF_PASSWORD.
+      # CF_USERNAME: your-username
+      # CF_PASSWORD: your-password
+
+      # These environment variables tell Cloud Foundry how to download the dependencies
+      # from the vendor folder.
+      GOVERSION: go1.6
+      GOPACKAGENAME: github.com/compozed/deployadactyl

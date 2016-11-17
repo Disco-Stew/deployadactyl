@@ -1,6 +1,5 @@
-deployadactyl
 .envrc
-vendor
-.agignore
-coverage.txt
 config.yml
+config.yaml
+coverage.txt
+deployadactyl

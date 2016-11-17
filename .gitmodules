@@ -1,0 +1,44 @@
+[submodule "vendor/golang.org/x/text"]
+	path = vendor/golang.org/x/text
+	url = https://github.com/golang/text
+[submodule "vendor/golang.org/x/crypto"]
+	path = vendor/golang.org/x/crypto
+	url = https://github.com/golang/crypto
+[submodule "vendor/golang.org/x/net"]
+	path = vendor/golang.org/x/net
+	url = https://github.com/golang/net
+[submodule "vendor/gopkg.in/go-playground/validator.v8"]
+	path = vendor/gopkg.in/go-playground/validator.v8
+	url = https://github.com/go-playground/validator
+	branch = v8
+[submodule "vendor/gopkg.in/yaml.v2"]
+	path = vendor/gopkg.in/yaml.v2
+	url = https://github.com/go-yaml/yaml
+	branch = v2
+[submodule "vendor/github.com/golang/protobuf"]
+	path = vendor/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "vendor/github.com/kr/fs"]
+	path = vendor/github.com/kr/fs
+	url = https://github.com/kr/fs
+[submodule "vendor/github.com/manucorporat/sse"]
+	path = vendor/github.com/manucorporat/sse
+	url = https://github.com/manucorporat/sse
+[submodule "vendor/github.com/onsi/ginkgo"]
+	path = vendor/github.com/onsi/ginkgo
+	url = https://github.com/onsi/ginkgo
+[submodule "vendor/github.com/onsi/gomega"]
+	path = vendor/github.com/onsi/gomega
+	url = https://github.com/onsi/gomega
+[submodule "vendor/github.com/op/go-logging"]
+	path = vendor/github.com/op/go-logging
+	url = https://github.com/op/go-logging
+[submodule "vendor/github.com/pkg/errors"]
+	path = vendor/github.com/pkg/errors
+	url = https://github.com/pkg/errors
+[submodule "vendor/github.com/pkg/sftp"]
+	path = vendor/github.com/pkg/sftp
+	url = https://github.com/pkg/sftp
+[submodule "vendor/github.com/spf13/afero"]
+	path = vendor/github.com/spf13/afero
+	url = https://github.com/spf13/afero
