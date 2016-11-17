@@ -42,3 +42,9 @@
 [submodule "vendor/github.com/spf13/afero"]
 	path = vendor/github.com/spf13/afero
 	url = https://github.com/spf13/afero
+[submodule "vendor/github.com/cloudfoundry-incubator/candiedyaml"]
+	path = vendor/github.com/cloudfoundry-incubator/candiedyaml
+	url = https://github.com/cloudfoundry-incubator/candiedyaml
+[submodule "vendor/github.com/gin-gonic/gin"]
+	path = vendor/github.com/gin-gonic/gin
+	url = https://github.com/gin-gonic/gin
